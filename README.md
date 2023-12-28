@@ -6,13 +6,13 @@ This system aims to maintain an organized queue system, preventing crowded queue
 
 ## Features
 
-### •	Queue Management: Prevents crowded queues, ensuring a smooth and organized flow of people.
+•	Queue Management: Prevents crowded queues, ensuring a smooth and organized flow of people.
 
-### •	Harassment Prevention: Mitigates incidents of harassment in public spaces.
+•	Harassment Prevention: Mitigates incidents of harassment in public spaces.
 
-### •	Social Distance Monitoring: Utilizes YOLOv3 to detect individuals in real-time video feeds, enforcing social separation protocols.
+•	Social Distance Monitoring: Utilizes YOLOv3 to detect individuals in real-time video feeds, enforcing social separation protocols.
 
-### •	Risk Assessment: Indicates the proportions of individuals at High, Low, and No Risk based on their detected separation.
+•	Risk Assessment: Indicates the proportions of individuals at High, Low, and No Risk based on their detected separation.
 
 ## How It Works
 
